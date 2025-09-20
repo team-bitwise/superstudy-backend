@@ -106,7 +106,7 @@ python-dotenv==1.1.1
 python-json-logger==3.3.0
 python-multipart==0.0.20
 pytz==2025.2
-pywin32==310
+pip install pywin32
 pywinpty==2.0.15
 PyYAML==6.0.2
 pyzmq==26.4.0
@@ -155,3 +155,4 @@ webencodings==0.5.1
 websocket-client==1.8.0
 websockets==15.0.1
 widgetsnbextension==4.0.14
+
